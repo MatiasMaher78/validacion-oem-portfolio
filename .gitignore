@@ -1,0 +1,15 @@
+/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.xlsx
+*_validated*.xlsx
+run_artifacts/
+.DS_Store
+.vscode/
+.idea/
+env/
+/.pytest_cache/
